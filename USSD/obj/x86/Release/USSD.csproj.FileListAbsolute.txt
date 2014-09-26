@@ -1,0 +1,8 @@
+I:\Laboratory\c# Lab\USSD\USSD\bin\Release\USSD.exe
+I:\Laboratory\c# Lab\USSD\USSD\bin\Release\USSD.exe.config
+I:\Laboratory\c# Lab\USSD\USSD\bin\Release\USSD.pdb
+I:\Laboratory\c# Lab\USSD\USSD\obj\x86\Release\USSD.Form1.resources
+I:\Laboratory\c# Lab\USSD\USSD\obj\x86\Release\USSD.Properties.Resources.resources
+I:\Laboratory\c# Lab\USSD\USSD\obj\x86\Release\USSD.csproj.GenerateResource.Cache
+I:\Laboratory\c# Lab\USSD\USSD\obj\x86\Release\USSD.exe
+I:\Laboratory\c# Lab\USSD\USSD\obj\x86\Release\USSD.pdb
